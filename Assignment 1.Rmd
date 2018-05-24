@@ -1,0 +1,29 @@
+---
+title: "Assignment 1"
+author: 'Juan Vasquez'
+output: html_notebook
+---
+
+##Juan R. Vasquez Jr.
+
+###Professional Background
+
+*Frameworks (Williams McCall Gallery), Miami, FL              January 2017- Present Administrative Assistant & Gallery Associate 
+
+*Executive Touch, New York, NY 						             February 2016 – October 2016
+Marketing & Sales Assistant   
+
+*Brooklyn Bridge Park Conservancy, Brooklyn, NY	 				   June 2015 – October 2015
+Program Assistant 
+
+###SKill Sets 
+*CRM Applications, Microsoft Office, Adobe Creative Cloud & Final Cut Pro
+
+###Interests
+*Film, Theater, Contemporary Art, Suatainability, Mindfullness, Astrology, Yoga & Meditation 
+
+![](IMG_1228.jpg)
+
+```{r}
+# I'm learning data science!
+```
