@@ -8,13 +8,14 @@ output: html_notebook
 
 ### Professional Background
 
-* Frameworks (Williams McCall Gallery), Miami, FL              January 2017- Present Administrative Assistant & Gallery Associate 
+* Frameworks (Williams McCall Gallery), Miami, FL                                                        January 2017- Present  
+  Administrative Assistant & Gallery Associate 
+ 
+* Executive Touch, New York, NY 						                                                      February 2016 – October 2016  
+  Marketing & Sales Assistant 
 
-* Executive Touch, New York, NY 						             February 2016 – October 2016
-Marketing & Sales Assistant   
-
-* Brooklyn Bridge Park Conservancy, Brooklyn, NY	 				   June 2015 – October 2015
-Program Assistant 
+* Brooklyn Bridge Park Conservancy, Brooklyn, NY	 				                                            June 2015 – October 2015  
+  Program Assistant 
 
 ### SKill Sets 
 * CRM Applications, Microsoft Office, Adobe Creative Cloud & Final Cut Pro
